@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Technology",
+    "description": "Alexandra Miller",
+    "tweets": 5989
+  },
+  {
+    "category": "Sports",
+    "description": "Ryan Thompson",
+    "tweets": 262000
+  },
+  {
+    "category": "Entertainment",
+    "description": "Isabella Wilson",
+    "tweets": 99400
+  },
+  {
+    "category": "Science",
+    "description": "Ethan Roberts",
+    "tweets": 19200
+  },
+  {
+    "category": "Fashion",
+    "description": "Ava Johnson",
+    "tweets": 435000
+  }
+]
